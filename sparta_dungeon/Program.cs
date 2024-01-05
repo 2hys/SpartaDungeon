@@ -300,6 +300,7 @@ namespace sparta_dungeon
                     else if (inputItem.saleGold <= player.Gold)
                     {
                         inputItem.isBuy = true;
+                        player.Gold -= inputItem.saleGold;
                     }
                     else
                     {
