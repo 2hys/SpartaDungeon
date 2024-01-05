@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\bin\Debug\net8.0\sparta_dungeon.exe
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\bin\Debug\net8.0\sparta_dungeon.deps.json
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\bin\Debug\net8.0\sparta_dungeon.runtimeconfig.json
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\bin\Debug\net8.0\sparta_dungeon.dll
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\bin\Debug\net8.0\sparta_dungeon.pdb
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.AssemblyInfo.cs
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.dll
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\refint\sparta_dungeon.dll
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.pdb
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\sparta_dungeon.genruntimeconfig.cache
+C:\Users\USER\source\repos\sparta_dungeon\sparta_dungeon\obj\Debug\net8.0\ref\sparta_dungeon.dll
